@@ -1,5 +1,9 @@
 # Netflix Content Strategy Analysis
 
+<p align="center">
+  <img src="hero.png" alt="Netflix Content Strategy Analysis Banner" width="100%"/>
+</p>
+
 This project analyzes Netflix's 2023 content strategy using viewership data.
 
 ## Dataset
